@@ -27,9 +27,6 @@ Spryker Commerce OS is a PHP-based e-commerce system for B2B. Novalnet payment m
 -	eps
 -	giropay
 -	Przelewy24
--	Direct Debit SEPA with payment guarantee
--	Invoice with payment guarantee
--	Carrier billing
 -	Postfinance
 -	Postfinance card
 -	Bancontact
