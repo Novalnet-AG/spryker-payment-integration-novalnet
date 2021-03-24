@@ -6,8 +6,6 @@
 -	One platform for all relevant payment types and related services
 -	Complete automation of all payment processes
 -	More than 50 fraud prevention modules integrated to prevent risk in real-time
--	Comprehensive affiliate system with automated split conversion of transaction on revenue sharing
--	Dynamic subscription and member management for recurring payments
 -	No PCI DSS certification required when using our payment module
 -	Real-time monitoring of the transaction flow from the checkout to the receivables
 -	Multilevel claims management with integrated handover to collection and various export functions for the accounting
