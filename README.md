@@ -68,5 +68,3 @@ sales@novalnet.de <br>
 
 ## Who is Novalnet?
 [Novalnet](https://novalnet.de/) is a German payment provider offering payment gateways for online merchants and marketplaces worldwide. Our PCI DSS certified SaaS engine is designed to automate the entire payment process from checkout to debt collection – with a single integration. We cover real-time risk management; secure payments (local + international) through escrow accounts, integrate receivables management, dynamic member and subscription management as well as other customized payment solutions for all your shop systems.
-
-
